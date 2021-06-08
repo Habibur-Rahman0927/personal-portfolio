@@ -1,6 +1,6 @@
 import React from 'react';
 import './TopBar.scss';
-import {AccessibleIcon, AccessibilityIcon, Person, Mail} from '@material-ui/icons';
+import { Person, Mail} from '@material-ui/icons';
 
 const TopBar = ({ menuOpen, setMenuOpen}) => {
     return (
